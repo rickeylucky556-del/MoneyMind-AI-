@@ -1,0 +1,6 @@
+{
+  "name": "SmartFinance",
+  "description": "Sleek all-in-one personal finance, budgeting, and investment tracker with AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
